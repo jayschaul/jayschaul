@@ -2,7 +2,9 @@
 
 Nice to e-meet you!!!!
 
-![Kapture 2020-03-16 at 12 50 00](https://user-images.githubusercontent.com/1191249/87069485-41924d00-c1e5-11ea-9761-2b8cfc233a46.gif)
+![Dog Licks](https://user-images.githubusercontent.com/1191249/87069485-41924d00-c1e5-11ea-9761-2b8cfc233a46.gif)
+
+![Mike's Pudge](https://github.com/jayschaul/mikes-pudge/blob/master/original.png?raw=true)
 
 <!--
 **jayschaul/jayschaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
